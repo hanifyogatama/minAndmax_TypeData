@@ -2,7 +2,7 @@
 private var integerMin:Int = Int.MIN_VALUE
 private var integerMax:Int = Int.MAX_VALUE
 
-fun main (args:Array<stringType>) {
+fun main (args:Array<String>) {
 
     println("Nilai minimal integer adalah ${integerMin}")
     println("Nilai maksimal integer adalah ${integerMax}")
